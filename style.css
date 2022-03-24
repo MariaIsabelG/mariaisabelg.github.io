@@ -7,11 +7,11 @@ body{
 }
 .relevant {
   background-color: #D6EAF8;
-  border-radius: 10px;
+  border-radius: 15px;
   border: 2px solid gray;
   padding-left: 10px;
-  padding-right: 10px
-  width: 50%;
-  height: 50%;
-  position: center
+  padding-right: 10px;
+  margin-right: 11%;
+  margin-left: 11%
+    
 }
